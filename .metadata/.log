@@ -1,0 +1,23 @@
+!SESSION 2012-11-18 20:44:23.278 -----------------------------------------------
+eclipse.buildId=v21.0.0-519525
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2012-11-18 20:46:21.063
+!MESSAGE DDMS files not found: E:\adt-bundle-windows-x86_64\adt-bundle-windows\eclipse\platform-tools\adb.exe E:\adt-bundle-windows-x86_64\adt-bundle-windows\sdktools\hprof-conv.exe E:\adt-bundle-windows-x86_64\adt-bundle-windows\eclipse\tools\traceview.bat 
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 4 0 2012-11-18 20:50:06.751
+!MESSAGE org.eclipse.equinox.internal.p2.touchpoint.natives.actions.UnzipAction error unzipping zipfile: E:\adt-bundle-windows-x86_64\adt-bundle-windows\eclipse\p2\org.eclipse.equinox.p2.core\cache\binary\org.eclipse.rcp.configuration_root.win32.win32.x86_64_1.0.0.M20120914-1800destination: E:\adt-bundle-windows-x86_64\adt-bundle-windows\eclipse
+!SESSION 2012-11-18 20:50:17.607 -----------------------------------------------
+eclipse.buildId=v21.0.0-519525
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2012-11-18 20:55:00.596
+!MESSAGE Failed to load properties file for project 'MyFirstApp'
